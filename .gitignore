@@ -28,6 +28,8 @@ services/demo-fetcher/state/
 companion/node_modules/
 companion/dist/
 companion/fixtures/local-*.jsonl
+*.bak
+*.*~
 
 # Server-side deploy files
 backups/
