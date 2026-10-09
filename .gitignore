@@ -24,6 +24,7 @@ web/*.tsbuildinfo
 data/secret.key
 services/demo-fetcher/node_modules/
 services/demo-fetcher/state/
+.awpy/
 companion/node_modules/
 companion/dist/
 companion/fixtures/local-*.jsonl
@@ -34,3 +35,4 @@ backups/
 companion/release/
 data/cs2cd/
 data/cs2cd_obs_maps/
+companion/test-data/
